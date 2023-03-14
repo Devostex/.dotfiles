@@ -1,0 +1,11 @@
+#!/bin/bash
+
+xsetroot -cursor_name left_ptr &
+
+bspc monitor -d 1 2 3 4 5 6
+
+pkill polybar
+polybar monitor -r &
+
+pkill sxhkd
+sxhkd & >> /dev/null

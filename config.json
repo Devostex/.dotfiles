@@ -1,0 +1,6 @@
+{
+    "config/bspwmrc": ".config/bspwm/bspwmrc",
+    "config/sxhkdrc": ".config/sxhkd/sxhkdrc",
+    "config/kitty.conf": ".config/kitty/kitty.conf",
+    "config/polybar.ini": ".config/polybar/config.ini"
+}
