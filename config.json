@@ -3,5 +3,6 @@
     "config/sxhkdrc": ".config/sxhkd/sxhkdrc",
     "config/kitty.conf": ".config/kitty/kitty.conf",
     "config/polybar.ini": ".config/polybar/config.ini",
-    "config/.zshrc": ".zshrc"
+    "config/.zshrc": ".zshrc",
+    "config/nvim": ".config/nvim"
 }
